@@ -1,0 +1,25 @@
+========== C:\Users\ubaid\Downloads ==========
+Suspicious_Script_Indicator C:\Users\ubaid\Downloads\Advanced_IP_Scanner_2.5.4594.1.exe
+Suspicious_Script_Indicator C:\Users\ubaid\Downloads\CEH Toolkit-Surya\Scanning\Advanced_IP_Scanner_2.5.4594.1.exe
+Suspicious_PowerShell_Indicator C:\Users\ubaid\Downloads\powershell_test.txt
+Suspicious_Command_Indicator C:\Users\ubaid\Downloads\VMware-workstation-full-17.6.2-24409262.exe
+Suspicious_PowerShell_Indicator C:\Users\ubaid\Downloads\CEH Toolkit-Surya\System Hacking\Hiren'sBootCD_PE_x64.iso
+Suspicious_Script_Indicator C:\Users\ubaid\Downloads\CEH Toolkit-Surya\System Hacking\Hiren'sBootCD_PE_x64.iso
+Suspicious_Command_Indicator C:\Users\ubaid\Downloads\CEH Toolkit-Surya\System Hacking\Hiren'sBootCD_PE_x64.iso
+Suspicious_PowerShell_Indicator C:\Users\ubaid\Downloads\CEH Toolkit-Surya\LabSetup\Win-7 ISO\win7_64_bit.iso
+Suspicious_Script_Indicator C:\Users\ubaid\Downloads\CEH Toolkit-Surya\LabSetup\Win-7 ISO\win7_64_bit.iso
+Suspicious_Command_Indicator C:\Users\ubaid\Downloads\CEH Toolkit-Surya\LabSetup\Win-7 ISO\win7_64_bit.iso
+Suspicious_Script_Indicator C:\Users\ubaid\Downloads\HBCD_PE_x64.iso
+Suspicious_Command_Indicator C:\Users\ubaid\Downloads\HBCD_PE_x64.iso
+Suspicious_PowerShell_Indicator C:\Users\ubaid\Downloads\CEH Toolkit-Surya\LabSetup\Win-10 ISO\Windows10.iso
+Suspicious_Script_Indicator C:\Users\ubaid\Downloads\CEH Toolkit-Surya\LabSetup\Win-10 ISO\Windows10.iso
+Suspicious_PowerShell_Indicator C:\Users\ubaid\Downloads\Kali 2022 x64 Customized by zSecurity 1.0.12.vmwarevm\Kali 2022 x64 Customized by zSecurity 1.0.12.vmwarevm\Disco virtual.vmdk
+Suspicious_Script_Indicator C:\Users\ubaid\Downloads\Kali 2022 x64 Customized by zSecurity 1.0.12.vmwarevm\Kali 2022 x64 Customized by zSecurity 1.0.12.vmwarevm\Disco virtual.vmdk
+Suspicious_Command_Indicator C:\Users\ubaid\Downloads\Kali 2022 x64 Customized by zSecurity 1.0.12.vmwarevm\Kali 2022 x64 Customized by zSecurity 1.0.12.vmwarevm\Disco virtual.vmdk
+Suspicious_PowerShell_Indicator C:\Users\ubaid\Downloads\kali-linux-2026.1-virtualbox-amd64\kali-linux-2026.1-virtualbox-amd64.vdi
+Suspicious_Script_Indicator C:\Users\ubaid\Downloads\kali-linux-2026.1-virtualbox-amd64\kali-linux-2026.1-virtualbox-amd64.vdi
+Suspicious_Command_Indicator C:\Users\ubaid\Downloads\kali-linux-2026.1-virtualbox-amd64\kali-linux-2026.1-virtualbox-amd64.vdi
+========== C:\Users\ubaid\Desktop ==========
+Suspicious_PowerShell_Indicator C:\Users\ubaid\Desktop\PROJECTS\1)Malicious_url_detection_using_ML-main\malicious_phish.csv
+========== C:\Users\ubaid\Documents ==========
+Suspicious_PowerShell_Indicator C:\Users\ubaid\Documents\13 APR 26 (8_30 & 2_30) batch-20260703T043518Z-3-001\13 APR 26 (8_30 & 2_30) batch\AICS\malicious_phish.csv

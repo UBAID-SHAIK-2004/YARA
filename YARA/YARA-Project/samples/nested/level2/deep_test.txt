@@ -1,0 +1,5 @@
+This is a deeply nested YARA test file.
+
+TEST_MALWARE_SIGNATURE
+
+This file is harmless and is being used to test recursive scanning.

@@ -1,0 +1,6 @@
+This is a controlled YARA test file.
+
+wscript.exe
+Scripting.FileSystemObject
+
+This file is harmless and is used only for YARA rule testing.

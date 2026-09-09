@@ -1,0 +1,6 @@
+This is a harmless test file for the YARA malware scanner project.
+
+TEST_MALWARE_SIGNATURE
+
+This file does not contain malware.
+It only contains a string that our YARA rule is designed to detect.

@@ -1,0 +1,5 @@
+﻿Test_Malware_Detection C:\Users\ubaid\YARA-Project\samples\nested\level2\deep_test.txt
+Suspicious_PowerShell_Indicator C:\Users\ubaid\YARA-Project\samples\powershell_test.txt
+Suspicious_Command_Indicator C:\Users\ubaid\YARA-Project\samples\command_test.txt
+Suspicious_Script_Indicator C:\Users\ubaid\YARA-Project\samples\script_test.txt
+Test_Malware_Detection C:\Users\ubaid\YARA-Project\samples\test_sample.txt

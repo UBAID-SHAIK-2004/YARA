@@ -1,0 +1,6 @@
+This is a controlled YARA testing file.
+
+powershell.exe
+Invoke-Expression
+
+This file is harmless and exists only to test YARA rule matching.
